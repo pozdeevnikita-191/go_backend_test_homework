@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	"fmt" //Импорт библиотеки
 )
 
 func Add(a, b int) int {
@@ -9,5 +9,5 @@ func Add(a, b int) int {
 }
 
 func main() {
-	fmt.Println("Я домашка")
+	fmt.Println("Я домашка") //печать
 }
